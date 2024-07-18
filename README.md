@@ -1,5 +1,7 @@
 # Hi there, I'm Krishnapal Zala 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Krish-Na-Pal&style=flat-square&color=blue)
+
 ## About Me
 I'm a recent Computer Engineering graduate from Sarvajanik College of Engineering and Technology, Surat, with a strong passion for full-stack development and a keen interest in science and technology.
 
@@ -8,11 +10,41 @@ I'm a recent Computer Engineering graduate from Sarvajanik College of Engineerin
 - 💬 Ask me about web development, DSA, and anything tech-related.
 - 📫 How to reach me: [krishzala708@gmail.com](mailto:krishzala708@gmail.com)
 
+![Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
 ## Skills
-- **Languages:** C, C++, Java, Python, HTML, CSS, JavaScript, PHP, TypeScript
-- **Frameworks/Libraries:** React, Next.js, Angular, Node.js, Tailwind, Django
-- **Databases:** MongoDB, MySQL, Firebase, SQLite
-- **Tools:** VS Code, Eclipse, Git, GitHub, Terminal, Virtual Box
+![Languages](https://img.shields.io/badge/-Languages-black?style=flat-square&logo=github)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+
+![Frameworks/Libraries](https://img.shields.io/badge/-Frameworks/Libraries-black?style=flat-square&logo=github)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+
+![Databases](https://img.shields.io/badge/-Databases-black?style=flat-square&logo=github)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
+
+![Tools](https://img.shields.io/badge/-Tools-black?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Terminal](https://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=windows-terminal)
+![Virtual Box](https://img.shields.io/badge/-Virtual_Box-183A61?style=flat-square&logo=virtualbox)
 
 ## Projects
 ### [MingleVision](https://minglevision.pythonanywhere.com/)
@@ -33,8 +65,11 @@ A real-time web application using Django, WebRTC, and Agora-API for chat and vid
 - Recipient of the Mukhyamantri Yuva Swavalamban Yojana (MYSY) Scholarship
 - JEE 2020 PR: 92.20%
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/krishnapal-zala)
-- [GitHub](https://github.com/Krish-Na-Pal)
-- [LeetCode](https://leetcode.com/Krish-Na-Pal)
+## GitHub Stats
+![Krishnapal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish-Na-Pal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Na-Pal&layout=compact&theme=radical)
 
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/krishnapal-zala)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Krish-Na-Pal)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/Krish-Na-Pal)
