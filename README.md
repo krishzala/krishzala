@@ -1,6 +1,9 @@
 # Hi there, I'm Krishnapal Zala 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Krish-Na-Pal&style=flat-square&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=Krish-Na-Pal&style=flat-square&color=blue)
+
+## Important Note
+> **⚠️ This is my second GitHub account. My first account was closed due to some malicious activity. Please refer to this account for my latest work and contributions.**
 
 ## About Me
 I'm a recent Computer Engineering graduate from Sarvajanik College of Engineering and Technology, Surat, with a strong passion for full-stack development and a keen interest in science and technology.
@@ -66,8 +69,8 @@ A real-time web application using Django, WebRTC, and Agora-API for chat and vid
 - JEE 2020 PR: 92.20%
 
 ## GitHub Stats
-![Krishnapal's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishzala&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishzala&layout=compact&theme=radical)
+![Krishnapal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish-Na-Pal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Na-Pal&layout=compact&theme=radical)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/krishnapal-zala)
