@@ -38,6 +38,3 @@ A real-time web application using Django, WebRTC, and Agora-API for chat and vid
 - [GitHub](https://github.com/Krish-Na-Pal)
 - [LeetCode](https://leetcode.com/Krish-Na-Pal)
 
----
-
-Feel free to customize this template further to match your personal style and preferences. Once you have created the README file, it will be displayed on your GitHub profile page for visitors to see.
