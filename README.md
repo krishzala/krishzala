@@ -66,8 +66,8 @@ A real-time web application using Django, WebRTC, and Agora-API for chat and vid
 - JEE 2020 PR: 92.20%
 
 ## GitHub Stats
-![Krishnapal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish-Na-Pal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Na-Pal&layout=compact&theme=radical)
+![Krishnapal's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishzala&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishzala&layout=compact&theme=radical)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/krishnapal-zala)
