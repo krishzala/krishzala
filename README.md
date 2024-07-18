@@ -1,6 +1,6 @@
 # Hi there, I'm Krishnapal Zala 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Krish-Na-Pal&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Krish-Na-Pal&style=flat-square&color=red)
 
 ## About Me
 I'm a recent Computer Engineering graduate from Sarvajanik College of Engineering and Technology, Surat, with a strong passion for full-stack development and a keen interest in science and technology.
